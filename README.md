@@ -1,5 +1,7 @@
 # A Whale Off the Portfolio
 
+![WhalePortfolio](https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/54c652106588609.5f93106bc0070.jpg)
+
 ## Description
 
 This repository delves into Portfolio performance and risk metrics, where I develop my own portfolio, compared it to big-name ones, algorithmic trading instruments, and S&P TSX 60 indices.
