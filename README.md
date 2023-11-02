@@ -55,7 +55,7 @@ I deeply value contributions from the community. If you're interested in contrib
 
 - **Moh Jaiswal** (Project Lead)
 
-Acknowledgments to instructors Sasanka Panda and Mehdi Lebi along with fellow students for valuable insights.
+Acknowledgments to instructors Sasanka Panda and Mehdi Lebdi along with fellow students for valuable insights.
 
 ## License
 
