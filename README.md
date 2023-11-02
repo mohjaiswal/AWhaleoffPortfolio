@@ -39,11 +39,11 @@ You will also find important insights from the analysis, such as:
   
 ## Roadmap
 
-This project currently focuses on the quantitative analysis of investment portfolios. Future updates may include additional analysis techniques or expanded datasets.
+This project currently focuses on the quantitative analysis of investment portfolios. Future updates may include additional quantitative and qualitative analysis techniques and/or expanded datasets.
 
 ## Contributing
 
-We welcome contributions from the community. If you're interested in contributing to this project, please follow the coding conventions, keep the code well-commented, and submit a pull request.
+I deeply value contributions from the community. If you're interested in contributing to this project, please follow the coding conventions, keep the code well-commented, and submit a pull request.
 
 1. Fork the repository.
 2. Create a new branch.
