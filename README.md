@@ -28,8 +28,6 @@ This project is focused on quantitative analysis of investment portfolios. The `
 - Determining portfolio correlations and rolling statistics.
 - Assessing risk-adjusted returns using Sharpe ratios.
 
-If unable to access the notebook, refer to the attached PDF for details.
-
 Key insights include:
 
 - Comparison of risk levels between Whale, Algo portfolios, and TSX 60.
