@@ -4,68 +4,74 @@
 
 ## Description
 
-This repository delves into Portfolio performance and risk metrics, where I develop my own portfolio, compared it to big-name ones, algorithmic trading instruments, and S&P TSX 60 indices.
+"A Whale Off the Portfolio" is an in-depth analysis of portfolio performance and risk metrics. This project involves developing a personal investment portfolio, comparing it with major portfolios, algorithmic trading instruments, and the S&P TSX 60 index.
 
 ## Badges
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/mohjaiswal/AWhaleOffPortfolio)
 
 ## Visuals
-You can find visualization graphics, such as plots and figures, in the associated Jupyter Notebook.
+
+Explore visualization graphics, including plots and figures, in the accompanying Jupyter Notebook.
 
 ## Installation
 
-Before you begin, you will need to install the necessary Python libraries, including Pandas and Matplotlib. To run the provided analysis code, clone this repository and make sure you have Jupyter Notebook installed.
+Before initiating, install necessary Python libraries such as Pandas and Matplotlib. Clone this repository and ensure Jupyter Notebook is installed to run the analysis code.
 
 ## Usage
 
-The primary usage for this project involves conducting quantitative analysis on investment portfolios. The associated Jupyter Notebook `whale_analysis.ipynb` contains code and explanations to perform the following tasks:
-- Read and clean historical returns data from multiple portfolios.
-- Calculate and analyze daily returns and cumulative returns.
-- Evaluate risk by calculating standard deviations.
-- Determine correlations between portfolios and rolling statistics.
-- Calculate Sharpe ratios to assess risk-adjusted returns.
+This project is focused on quantitative analysis of investment portfolios. The `whale_analysis.ipynb` Jupyter Notebook includes:
 
-Note: If you are unable to open the notebook, there is a PDF attached for your perusal. 
+- Reading and cleaning historical returns data from various portfolios.
+- Calculating and analyzing daily and cumulative returns.
+- Evaluating risks through standard deviation calculations.
+- Determining portfolio correlations and rolling statistics.
+- Assessing risk-adjusted returns using Sharpe ratios.
 
-You will also find important insights from the analysis, such as:
-- Whale and Algo portfolios are both riskier than TSX 60.
-- Correlation between portfolios and TSX 60, with Algo 2 having the highest correlation of 0.83, making it the most similar to TSX 60.
-- Determining whether the algorithmic strategies outperform both the market (S&P TSX 60) and the whales' portfolios, which, based on Sharpe ratios, they do.
+If unable to access the notebook, refer to the attached PDF for details.
+
+Key insights include:
+
+- Comparison of risk levels between Whale, Algo portfolios, and TSX 60.
+- Analysis of portfolio correlations with the TSX 60.
+- Evaluation of algorithmic strategies against market and whale portfolios based on Sharpe ratios.
 
 ## Support
 
-- Create an issue in this repository.
-- Chat on [LinkedIn](https://www.linkedin.com/in/mohjaiswal).
-- Contact at mohjaiswal@gmail.com.
-  
+For support:
+
+- Report issues [here](https://github.com/mohjaiswal/AWhaleOffPortfolio/issues).
+- Connect on [LinkedIn](https://www.linkedin.com/in/mohjaiswal).
+- Email: mohjaiswal@gmail.com.
+
 ## Roadmap
 
-This project currently focuses on the quantitative analysis of investment portfolios. Future updates may include additional quantitative and qualitative analysis techniques and/or expanded datasets.
+The project currently focuses on quantitative analysis of investment portfolios. Future updates may introduce more advanced quantitative and qualitative analysis methods and broader datasets.
 
 ## Contributing
 
-I deeply value contributions from the community. If you're interested in contributing to this project, please follow the coding conventions, keep the code well-commented, and submit a pull request.
+Community contributions are appreciated. To contribute:
 
 1. Fork the repository.
 2. Create a new branch.
-3. Make changes and open a pull request.
+3. Implement changes and submit a pull request, ensuring adherence to coding standards and clear documentation.
 
 ## Authors and Acknowledgment
 
-- **Moh Jaiswal** (Project Lead)
+- **Moh Jaiswal** - Project Lead
 
-Acknowledgments to instructors Sasanka Panda and Mehdi Lebdi along with fellow students for valuable insights.
+Special thanks to Sasanka Panda, Mehdi Lebdi, and peers for their insights.
 
 ## License
 
-This project is open-source and available under the MIT License.
+This project is open-sourced under the MIT License.
 
 ## Project Status
 
-Active development. Contributions welcome.
+Actively under development. Contributions are encouraged and welcome.
 
 ---
-## Legal Disclaimer: 
 
-### This analysis is for educational and research purposes only. It is not intended to provide financial or investment advice. Please be cautious and conduct thorough research before making any investment decisions. The owner of this repository is not liable for any actions taken based on the information provided. The findings and conclusions in this repository should not be considered as a substitute for professional advice.
+## Legal Disclaimer
+
+This analysis is solely for educational and research purposes and should not be considered professional financial or investment advice. Exercise due diligence and conduct thorough research before making any investment decisions. The repository owner is not liable for actions taken based on this information. The findings and conclusions are for educational purposes and should not replace professional advice.
